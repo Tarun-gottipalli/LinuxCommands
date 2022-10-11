@@ -1,0 +1,6 @@
+command:pwd
+options:pwd -L
+        pwd -p
+Example:pwd -L 
+        pwd -P 
+output:
