@@ -1,0 +1,6 @@
+command:rm
+options:-i prompts the system confirmation before deleting a file.
+        -f removes the file without any confirmation.
+        -r deletes the files and directories recursively.
+Example:rm -r Tarun.
+output:
