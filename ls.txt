@@ -1,0 +1,9 @@
+command:ls
+options:ls -R lists all the files in the subdirectories.
+        ls -a shows hidden files in addition to the visible ones.
+        ls -lh shows the file sizes in easily readable formats, such as MB, GB, and TB.  
+Example:ls -R   
+output:./linux:
+
+        ./tarun:
+        a.out  file.c  file.class  file.java  helloworld  test.c
