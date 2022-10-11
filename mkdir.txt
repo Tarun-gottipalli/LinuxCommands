@@ -1,0 +1,7 @@
+command: mkdir
+options:-p or –parents create a directory between two existing folders.
+        -m sets the file permissions.
+        -v prints a message for each created directory.
+Example:mkdir linux
+    mkdir -p tarun/1219/Tarun
+    
