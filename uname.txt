@@ -1,0 +1,11 @@
+command:uname
+options:uname -a prints the system information
+        uname -s prints kernal name
+        uname -n prints systems node hostname
+Example: uname -s
+output:  Linux
+Example: uname -n
+output:  online.com
+Example: uname -a
+output:  Linux online.com 2.6.21-2950.fc8xen #1 SMP Tue Oct 23 12:24:34 EDT 2007 i686 i686 i386 GNU/Linux
+

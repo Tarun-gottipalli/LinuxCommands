@@ -1,0 +1,4 @@
+command:cat
+options:cat > filename.txt creates a new file.
+        cat filename1.txt filename2.txt > filename3.txt (merges two files and store in other file )
+        tac filename.txt displays content in reverse order.
